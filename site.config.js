@@ -13,14 +13,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `eunseon-log`,
       href: "https://github.com/eunseonJeong",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "eunseon-log",
+    description: "welcome to eunseon-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
